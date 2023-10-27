@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background-color: bisque;
+}
+
+.imagem {
+  left: 250px;
+  width: 250px;
+}
+
+.titulo {
+  color: blue;
+  font-size: 40px;
+}
